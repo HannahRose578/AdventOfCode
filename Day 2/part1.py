@@ -44,4 +44,4 @@ input_file_path = 'input2.txt'
 
 # Solve the puzzle
 result = solve_puzzle(input_file_path)
-print(f"The sum of the IDs of the possible games is: {result}")
+print(result)
